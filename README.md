@@ -15,6 +15,12 @@ PIL ( ImageTk , Image )
 
 import random
 
+os (ubuntu)
+
 # Result
- 
- ScreenShots of output exist in the same location of code ! 
+
+![screen1](https://raw.githubusercontent.com/MariiiomH/NLP_MCQ/master/Output/Screenshot%20from%202019-07-14%2010-13-19.png)
+
+![screen2](https://raw.githubusercontent.com/MariiiomH/NLP_MCQ/master/Output/Screenshot%20from%202019-07-14%2010-14-08.png)
+
+![screen3](https://raw.githubusercontent.com/MariiiomH/NLP_MCQ/master/Output/Screenshot%20from%202019-07-14%2010-14-24.png)
