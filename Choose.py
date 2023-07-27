@@ -33,12 +33,9 @@ def generateQuestion():
     z = (random.choice(item))
     addition = ['originally', 'in the first', 'in the beginning', 'earlier', 'to begin with', 'primitively', 'at first', 'initially', 'incipiently']
     az1 = (random.choice(addition))
-    __title__ = 'names'
-    __version__ = '0.2'
-    __author__ = 'Trey Hunner'
-    __license__ = 'MIT'
 
-#
+
+
 
     def multiwordReplace(text, wordDic):
         """
